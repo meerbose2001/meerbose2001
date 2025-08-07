@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swarnavabose2001
+- 👋 Hi, I’m @meerbose2001
 - 👀 I’m interested in Research, Invention ,Machine Learning, Data Science, Programming
 - 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ...Various Coding or Machine Laerning Projects
